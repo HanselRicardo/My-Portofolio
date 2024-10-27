@@ -1,0 +1,134 @@
+{
+    "main": {
+        "name" : "Hansel Ricardo",
+        "description": "I am a Data Analyst and Cyber Security From Jakarta, Indonesia",
+        "image":"profilepic.jpg",
+        "github":"https://github.com/HanselRicardo",
+        "project":"https://github.com/HanselRicardo",
+        "bio": "I'm a Data Analyst Intern at PT. Internusa Tribuana Citra Multifinance",
+        "contactmessage":"Hello, here I am",
+        "email": "hanselricardo20@gmail.com",
+        "phone": "0852-8325-7396",
+        "address":{
+            "street":"Jl. Jelambar Baru 1 Nomor 7",
+            "city":"Jakarta Barat",
+            "state":"Jakarta",
+            "zip": "11640"
+        },
+        "website": "https://github.com/HanselRicardo",
+        "resumedownload":"https://github.com/HanselRicardo",
+        "social":[
+          {
+            "name": "facebook",
+            "url": "https://www.facebook.com/hansel.ricardo/",
+            "className": "fa fa-facebook"
+          },
+          {
+            "name":"linkedin",
+            "url":"https://www.linkedin.com/in/hansel-ricardo-52a42a236/",
+            "className":"fa fa-linkedin"
+          },
+          {
+            "name":"instagram",
+            "url":"https://www.instagram.com/hansel_ricardo/",
+            "className":"fa fa-instagram"
+          },
+          {
+            "name":"github",
+            "url":"https://github.com/HanselRicardo",
+            "className":"fa fa-github"
+          }
+        ]
+    },
+    "resume" : {
+        "skillmessage":"My Skills",
+        "education" : [
+            {
+                "school": "Pradita University",
+                "degree": "Undergraduate Bachelor degree of Informatics",
+                "graduating": "August 2025",
+                "description" : "IPK : 3.35"
+            },
+            {
+                "school": "SMA Katolik Santu Petrus Pontianak",
+                "degree": "Science",
+                "graduated": "May 2021",
+                "description": "Rata-rata: 89.79"
+            }
+        ],
+        "work": [
+            {
+                "company" : "PT. Internusa Tribuana Citra Multifinance",
+                "title" : "Data Analyst",
+                "years": "October 2024 - present",
+                "description": "Analyze company data for ffuture prospect"
+            }, {
+                "company": "Course-Net Indonesia",
+                "title": "Studi Independen | IT Network & Cyber Security Specialist",
+                "years": "February 2024 - June 2024",
+                "description": "Program MBKM Bach 6 bersama Course-Net Indonesia"
+            }
+        ],
+        "skills": [
+            {
+                "name" : "English",
+                "level": "90%"
+            },
+            {
+                "name": "Encryption",
+                "level": "75%"
+            },
+            {
+                "name": "Kali Linux",
+                "level": "70%"
+            },
+            {
+                "name": "Laravel",
+                "level": "70%"
+            },
+            {
+                "name": "Python",
+                "level": "65%"
+            },
+            {
+                "name": "Data Analysis",
+                "level": "60%"
+            }
+        ]
+    },
+    "portfolio":{
+        "projects": [
+            {
+                "title": "Enkripsi Data Penduduk Desa Curug Sangereng",
+                "category": "My travel blog for my post-university",
+                "image": "01.jpg",
+                "url": "https://wargacurugsangereng.web.id/"
+            },
+            {
+                "title":"Analisis dan Prediksi Tingkat Kejahatan di Kota Los Angeles Tren 2020-2023 | Data Visualization",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"02.jpg",
+                "url":"http://www.timbakerdev.com"
+            },
+            {
+              "title":"Omnet++ Tsunami Detection Network Project",
+              "category":"(offline now) A fighting gear company I started",
+              "image":"03.jpg",
+              "url":"http://www.timbakerdev.com"
+            },
+            {
+              "title":"Summarecon Portal Web Mobile Prototype",
+              "category":"(offline now) A fighting gear company I started",
+              "image":"04.jpg",
+              "url":"http://www.timbakerdev.com"
+            },
+            {
+              "title":"Book Hub",
+              "category":"(offline now) A fighting gear company I started",
+              "image":"05.jpg",
+              "url":"http://www.timbakerdev.com"
+            }
+              
+        ]
+    }
+}
